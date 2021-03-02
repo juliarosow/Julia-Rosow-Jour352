@@ -38,6 +38,12 @@ BODY {
 }
 
 
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
 
 /*section headings*/
 .sectionheader {
@@ -96,6 +102,7 @@ BODY {
   margin-right: 0;
 }
 
+/* in education */
 .degrees {
   margin-top: 5px;
   margin-bottom: 0;
