@@ -5,7 +5,7 @@ BODY {
 }
 
 
-
+/* container element to center text on webpage */
 #container {
   width:100%;
   max-width: 1200px;
@@ -77,7 +77,7 @@ BODY {
   margin-right: 0;
 }
 
-
+/* to organize list elements */
 .menu {
   font-size: 1em;
   text-align: center;
@@ -88,6 +88,7 @@ BODY {
   display:inline;
 }
 
+/* added to paragraph elements */
 .description {
   margin-top: 10px;
   margin-bottom: 10px;
