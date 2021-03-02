@@ -11,9 +11,6 @@ BODY {
   max-width: 1200px;
   margin:0 auto;
   margin-bottom: 50px;
-  margin-top: 0;
-  margin-right: 0;
-  margin-left: 0;
 }
 
 /* Name */
@@ -48,6 +45,7 @@ BODY {
   text-transform: uppercase;
   background-color: #33485e;
   color:#fff;
+  font-weight: 400;
   margin-top: 20px;
   margin-bottom: 10px;
   margin-right: 0;
@@ -80,14 +78,33 @@ BODY {
 }
 
 
-li {
+.menu {
   font-size: 1em;
+  text-align: center;
+  margin: 0;
 }
 
+.menu li {
+  display:inline;
+}
 
 .description {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.degrees {
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.do {
+  margin-top: 5px;
+  margin-bottom: 0;
   margin-left: 0;
   margin-right: 0;
 }
