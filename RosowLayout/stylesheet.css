@@ -1,0 +1,33 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+BODY {
+  font-family: "Times New Roman", Times,serif;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.pquote {
+  font-family: Georgia, serif;
+  font-size: 24px;
+  font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-style: 
+}
