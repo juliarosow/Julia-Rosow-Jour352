@@ -1,0 +1,83 @@
+#content {
+  width: 900px;
+  margin: 0 auto;
+}
+
+BODY {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-family: Helvetica, Times, serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.masthead {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  width: 1000px;
+  height: 175px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  width: 900px;
+}
+
+.cap1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: right;
+  font-size: 12px;
+  width: 900px;
+  margin: 0 auto;
+}
+
+
+#byline {
+  font-family: Georgia, Times, serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+.blockquote {
+  font: 16px/24px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: black;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+}
+
+h3 {
+  font-family: Georgia, Times, serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.menu {
+  font-family: Georgia, Times, serif;
+  font-size: 18px;
+  text-align: left;
+}
+/*I built this myself*/
