@@ -86,7 +86,9 @@ font-family: Georgia;
 }
 
 
-
+.nav-link {
+  color:#1B1B25;
+}
 
 .Role {
   font-size: 1.7em;
@@ -96,4 +98,26 @@ font-family: Georgia;
   font-size: 1.2em;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+
+.contact {
+  text-indent: 30px;
+  color:#1B1B25;
+  font-size: 1.2em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: auto
+  margin-right:auto;
+  text-align: center:
+}
+
+
+a {
+  color:#1B1B25;
+  font-size: 1.2em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center:
+
 }
