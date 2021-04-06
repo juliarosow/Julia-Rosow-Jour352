@@ -26,9 +26,22 @@ p {
 }
 
 
+figure {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+}
+
+
+
 .column {
   float: center;
   width: 33.33%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 
 /* Clear floats after the columns */
