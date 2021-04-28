@@ -54,9 +54,9 @@ figure {
 }
 
 h1 {
-  font-size: 12px;
+  font-size: 28px;
   font-style: italic;
-  background: dark red;
+  color: #008080;
 }
 
 
@@ -68,4 +68,24 @@ footer {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
   height: 100px;
+}
+
+
+
+div {
+  width: 700px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 25%;
+  text-align: center;
+}
+
+
+.container {
+  width: 95%;
+}
+
+h2 {
+  font-size: 20px;
+  color: #008080;
 }
