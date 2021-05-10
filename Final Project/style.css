@@ -36,34 +36,15 @@ figure {
 }
 
 
-.twitterlogo {
-  margin-top: auto;
-  margin-bottom: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  float: right;
-  display:block;
+.subscribe {
+  width: 250px;
+  position: absolute;
+  right: 2%;
 }
 
-.instagramlogo {
-  margin-top: auto;
-  margin-bottom: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  margin-right:0;
-  margin-left: auto;
-  display:block;
-}
 
-.facebooklogo {
-
-  margin-top: auto;
-  margin-bottom: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  margin-right:0;
-  margin-left: auto;
-  display:block;
+.headerpic {
+  padding-top: 100px;
 }
 
 
@@ -131,7 +112,7 @@ width: 100%;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-size: 35px;
+  font-size: 30px;
   color: #F13A33;
 }
 
@@ -173,19 +154,21 @@ h2 {
 
 
 .nav-link {
-  font-family: Arial, sans-serif;
-  font-size: 22px;
+  font-family: Georgia, sans-serif;
+  font-size: 20px;
   background-color: white;
   color: black;
   text-align: right;
 }
 
 .navbar-light .navbar-nav .nav-link {
-  font-family: Arial, sans-serif;
+  font-family: Georgia, sans-serif;
   font-size: 22px;
   background-color: white;
   color: black;
   text-align: right;
+  text-shadow: 0.5px 0.5px;
+
 }
 
 
